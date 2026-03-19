@@ -1,0 +1,3 @@
+Der [[Namen]] [[Microsoft]] steht für [[Microsomputer-Software]]. 
+Das von [[Bill Gates]] und [[Paul Allen]] 04.04.1975 gegründete [[Unternehmen]] (in Albuquerque (New Mexico)) [[Microsoft Corporation]] ist der weltweit größte [[Hersteller]] von [[Software]]. 
+So ist [[Microsoft]] unter anderem bekannt für ihr [[Betriebssysteme]] [[Windows]], das [[Büro-Softwarepaket]] [[Office]], die [[Tablet-PC-Familie Microsoft Surface]] und die [[Videospiel-Marke Xbox]]. 

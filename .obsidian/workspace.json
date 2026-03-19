@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "7387503d162da0a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e954792219975f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f31eae68448f7a8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Active Directory"
+            }
+          },
+          {
+            "id": "93a13bc772c1a2de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klauseln.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Klauseln"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "948bb3ea0a79925c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc2b117e3edac45f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab54f6b9d1d1012b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "36ddbe5ff831f543",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "server",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2369b8eaaf18bc9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "16ee041a53cb3d93",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dd2b70970d954a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "123f843e87230cd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hardware Server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hardware Server"
+            }
+          },
+          {
+            "id": "adb8abea56bec8cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hardware Server.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hardware Server"
+            }
+          },
+          {
+            "id": "0a4c9884bad6b8a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23d840805d97f205",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hardware Server.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hardware Server"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "93a13bc772c1a2de",
+  "lastOpenFiles": [
+    "insert into tablename values (...);.md",
+    "Gruppenrichtlinie.md",
+    "Herrschaftsordnung.md",
+    "Geräte.md",
+    "Computer.md",
+    "Netzwerk.md",
+    "Router.md",
+    "TCP-Geschichte.md",
+    "DECnet Routing Protocol.md",
+    "Server.md",
+    "Totalausfall des Stroms_USV.md",
+    "Active Directory.md",
+    "Untitled.base",
+    "Element.md",
+    "Untitled",
+    "Active Directory Datenbank.md",
+    "AD.md",
+    "AD-Funktionalitäten.md",
+    "Protokoll.md",
+    "Hardware Server.md",
+    "int.md",
+    "Integer.md",
+    "Java.md",
+    "_Bilder/Eingabeaufforderung/Pasted image nslookup.png",
+    "Benutzer.md",
+    "Personen.md",
+    "Wissenschaften.md",
+    "Spektrum.md",
+    "Parlament.md",
+    "Unbenannt",
+    "Unbenannt 1.canvas",
+    "Unbenannt.canvas",
+    "ready",
+    "_Bilder/Pasted image Ports_LAN_WAN.png",
+    "IT-Technik - Schulaufgabe",
+    "IT-Systeme-Schulaufgabe",
+    "_Bilder/Protokolle/UDP/Pasted image 20240611214058.png",
+    "_Bilder/Physik_Elektrotechnik/Pasted image Atom.png",
+    "_Bilder/Eingabeaufforderung/Pasted image nslookup Ergebnis.png",
+    "_Bilder/Eingabeaufforderung/Pasted image route print.png",
+    "_Bilder/Ausführen/Pasted image Ausführen-Fenster.png",
+    "_Bilder/Ausführen/Pasted image Ausführen-Fenster_SafeMode Outlook.png",
+    "_Bilder/Programmiersprachen/Structured Query Language/Pasted image create database.png",
+    "_Bilder/Programmiersprachen/Structured Query Language/Pasted image describe tablename.png",
+    "_Bilder/Protokolle/UDP",
+    "_Bilder/Unbenannt",
+    "_Bilder/Protokolle",
+    "PuG"
+  ]
+}

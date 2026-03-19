@@ -1,0 +1,1 @@
+Diese [[Excel-Formeln]] addiert Zahlen, die mit dem [[Suchkriterium]] übereinstimmen. 

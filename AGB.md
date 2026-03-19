@@ -1,0 +1,1 @@
+AGBs sind [[Allgemeine Geschäftsbedingungen]], welche für eine Vielzahl von Fällen anwendbare vorformulierte [[Vertragsbedingung]]en, die eine [[Vertragspartei]] (der Verwender) der anderen [[Vertragspartei]] bei Abschluss eines Vertrages stellt (§ 305 Abs. 1 BGB)

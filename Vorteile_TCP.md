@@ -1,0 +1,5 @@
+- Verlässlichkeit
+- Flusskontrolle
+- Ordnung und Reihenfolge der Pakete
+- Fehlerprüfung
+- Verbindungsorientiert

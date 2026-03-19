@@ -1,0 +1,6 @@
+[[KVM-Switch]]
+[[LAN-Switch]]
+[[nicht verwalteter Switch]]
+[[verwalteter Switch]]
+[[PoE-Switch]]
+[[stapelbarer Switch]]

@@ -1,0 +1,2 @@
+Diese Schicht, [[Transport Layer]], ermöglicht die [[End-to-End-Kommunikation]] zwischen den [[Geräte]]n. 
+Durch den Einsatz von [[Protokoll]]en wie dem [[User Datagram Protocol]] ([[UDP]]) und [[TCP]] wird die konsistente und systematische Zustellung von [[Datenpaketen]] gewährleistet. Während [[UDP]] eine schnellere, verbindungslose [[Kommunikation]] ermöglicht, sorgt [[TCP]]-Verbindung für eine zuverlässige, verbindungsorientierte [[Kommunikation]]. 

@@ -1,0 +1,8 @@
+[[route print]]
+[[nslookup]]
+[[xcopy]]
+[[ipconfig]]
+[[cls]]
+[[whoami]]
+[[gpupdate /force]]
+[[gpresult]]

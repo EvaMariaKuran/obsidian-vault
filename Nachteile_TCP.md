@@ -1,0 +1,6 @@
+- Overhead
+- Latenz
+- Überlastungssteuerung
+- Verbindungsorientiert
+- Allgemeinheit
+- 

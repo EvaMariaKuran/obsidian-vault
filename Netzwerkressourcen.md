@@ -1,0 +1,1 @@
+Unter [[Netzwerkressourcen]] versteht man vor allem logische aber auch physikalische [[Einheit]]en, die zusammen eine nutzbare [[end-to-end-Netzwerkverbindung]] ausmachen, wie die verfügbare [[Bandbreite]], maximale [[Verzögerung/Latenz]], [[Paketverlust]], maximaler [[Jitter]], [[Prozessorzeit]] oder [[Speicherkapazität]]. 

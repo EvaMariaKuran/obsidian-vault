@@ -1,0 +1,1 @@
+Ein [[Verfahren]] ist ein strukturierter, geplanter Ablauf zur Bearbeitung eines Themas oder einer Aufgabe. Es gibt formelle [[Verfahren]], wie zum Beispiel ein [[Planfeststellungsverfahren]], das genau definierten und gesetzlich festgelegten Schritten folgt und informelle [[Verfahren]], deren Ausgestaltung vollkommen frei sind. 

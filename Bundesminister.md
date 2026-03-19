@@ -1,0 +1,1 @@
+Ein [[Bundesminister]] leitet den ihm zugewiesenen [[Geschäftsbereich]] - meistens ein [[Bundesministerium]] - , innerhalb der [[Richtlinien]], die vom [[Bundeskanzler]] als [[Vorsitzenden]] der [[Bundesregierung]] aufgestellt werden, in eigener [[Verantwortung]]. 

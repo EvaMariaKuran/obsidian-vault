@@ -1,0 +1,2 @@
+[[Gewaltenteilung]] bedeutet, dass staatliche [[Gewalt]] nicht bei einer staatlichen Stelle allein liegt, sondern auf unterschiedliche Stellen verteilt ist. 
+Die drei [[Gewalt]]en [[Gesetzgebung]], [[vollziehende oder ausübende Gewalt]] und [[Rechtsprechung]] kontrollieren und begrenzen sich gegenseitig. 
