@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "server",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
@@ -207,6 +207,8 @@
   },
   "active": "93a13bc772c1a2de",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Klauseln.md",
     "insert into tablename values (...);.md",
     "Gruppenrichtlinie.md",
     "Herrschaftsordnung.md",
@@ -219,7 +221,6 @@
     "Server.md",
     "Totalausfall des Stroms_USV.md",
     "Active Directory.md",
-    "Untitled.base",
     "Element.md",
     "Untitled",
     "Active Directory Datenbank.md",
@@ -234,8 +235,6 @@
     "Benutzer.md",
     "Personen.md",
     "Wissenschaften.md",
-    "Spektrum.md",
-    "Parlament.md",
     "Unbenannt",
     "Unbenannt 1.canvas",
     "Unbenannt.canvas",
