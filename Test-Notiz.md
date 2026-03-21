@@ -1,0 +1,1 @@
+Ist die Notiz auch privat einsehbar oder funktioniert das mit dem GitHub und der Konfiguration im Background nicht? 
