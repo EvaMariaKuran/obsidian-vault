@@ -11,10 +11,65 @@
             "id": "0155ea8d10a0115f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
+          },
+          {
+            "id": "95d236a0c1903030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my tags.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "my tags"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "269a17c6848666ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ebd082670782bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my tags.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "my tags"
             }
           }
         ]
@@ -74,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "58d74b9f723dcfab",
@@ -165,11 +220,13 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "0f457c599ee698f7",
+  "active": "95d236a0c1903030",
   "lastOpenFiles": [
+    "Unbenannt.canvas",
+    "my tags.md",
+    "Study-Dateien/Zeit.md",
     "Unbenannt",
     "Test-Notiz.md",
-    "Study-Dateien/Zeit.md",
     "Study-Dateien/xcopy.md",
     "Z neu.md",
     "Study-Dateien/Tools.md",
