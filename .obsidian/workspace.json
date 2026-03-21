@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2293aab5b50bd63b",
+        "id": "0c9afc2b6a8fd49e",
         "type": "tabs",
         "children": [
           {
-            "id": "75cae8f1c097734c",
+            "id": "6f4745ea7201df9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z neu.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Z neu"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -179,6 +165,8 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "75cae8f1c097734c",
-  "lastOpenFiles": []
+  "active": "6f4745ea7201df9f",
+  "lastOpenFiles": [
+    "Z neu.md"
+  ]
 }
