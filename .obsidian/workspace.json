@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9afc2b6a8fd49e",
+        "id": "7754bd207f2b7b61",
         "type": "tabs",
         "children": [
           {
-            "id": "6f4745ea7201df9f",
+            "id": "0155ea8d10a0115f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,15 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "6f4745ea7201df9f",
+  "active": "0f457c599ee698f7",
   "lastOpenFiles": [
-    "Z neu.md"
+    "Unbenannt",
+    "Test-Notiz.md",
+    "Study-Dateien/Zeit.md",
+    "Study-Dateien/xcopy.md",
+    "Z neu.md",
+    "Study-Dateien/Tools.md",
+    "Study-Dateien/Abonnemente.md",
+    "Study-Dateien"
   ]
 }
