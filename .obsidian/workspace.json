@@ -1,43 +1,19 @@
 {
   "main": {
-    "id": "7387503d162da0a3",
+    "id": "6fe3475b50192d4a",
     "type": "split",
     "children": [
       {
-        "id": "e954792219975f32",
+        "id": "96ae606e67c107a5",
         "type": "tabs",
         "children": [
           {
-            "id": "f31eae68448f7a8b",
+            "id": "af6538802a89bb79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "offene Themen (ausführlicher)/Panda.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Panda"
-            }
-          },
-          {
-            "id": "ac5f3bee202d5ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test-Notiz.md",
+                "file": "Z.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,48 +28,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Test-Notiz"
-            }
-          },
-          {
-            "id": "93a13bc772c1a2de",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Unbenannt.base",
-                "viewName": "Tabelle"
-              },
-              "icon": "lucide-table",
-              "title": "Unbenannt"
-            }
-          },
-          {
-            "id": "acf81da27cfb2291",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "title": "Z"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "948bb3ea0a79925c",
+    "id": "c169faa6048d67cd",
     "type": "split",
     "children": [
       {
-        "id": "dc2b117e3edac45f",
+        "id": "61bd6fd9ec17eac3",
         "type": "tabs",
         "children": [
           {
-            "id": "ab54f6b9d1d1012b",
+            "id": "f04195aefa91626b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -106,7 +58,7 @@
             }
           },
           {
-            "id": "36ddbe5ff831f543",
+            "id": "bed5bf2749a831d6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -123,64 +75,64 @@
             }
           },
           {
-            "id": "2369b8eaaf18bc9f",
+            "id": "426030e80a558a49",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Lesezeichen"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 300
   },
   "right": {
-    "id": "16ee041a53cb3d93",
+    "id": "bed9fc414cc451f2",
     "type": "split",
     "children": [
       {
-        "id": "2dd2b70970d954a2",
+        "id": "6176d54bac3a7710",
         "type": "tabs",
         "children": [
           {
-            "id": "123f843e87230cd8",
+            "id": "c4dc64446f1e0356",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "offene Themen (ausführlicher)/Panda.md",
+                "file": "Z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Panda"
+              "title": "Rückverweise auf Z"
             }
           },
           {
-            "id": "adb8abea56bec8cc",
+            "id": "4762c288a3610553",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "offene Themen (ausführlicher)/Panda.md",
+                "file": "Z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Panda öffnen"
+              "title": "Ausgehende Links von Z öffnen"
             }
           },
           {
-            "id": "0a4c9884bad6b8a7",
+            "id": "0a54096df15feda4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -195,18 +147,18 @@
             }
           },
           {
-            "id": "23d840805d97f205",
+            "id": "182a5618d99a45ed",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "offene Themen (ausführlicher)/Panda.md",
+                "file": "Z.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Panda"
+              "title": "Gliederung von Z"
             }
           }
         ]
@@ -227,69 +179,8 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "ac5f3bee202d5ab8",
+  "active": "af6538802a89bb79",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Untitled.base",
-=======
-    "offene Themen (ausführlicher)/Panda.md",
-    "Test-Notiz.md",
-    "AD-Schema.md",
-    "offene Themen (ausführlicher)/Outlook-Informationen.md",
-    "Active Directory.md",
-    "Unbenannt.base",
->>>>>>> 3383f01c02c6d81087be883e1205599192f374e3
-    "Klauseln.md",
-    "insert into tablename values (...);.md",
-    "Gruppenrichtlinie.md",
-    "Herrschaftsordnung.md",
-    "Geräte.md",
-    "Computer.md",
-    "Netzwerk.md",
-    "Router.md",
-    "TCP-Geschichte.md",
-    "DECnet Routing Protocol.md",
-    "Server.md",
-    "Totalausfall des Stroms_USV.md",
-<<<<<<< HEAD
-    "Active Directory.md",
-=======
-    "Untitled.base",
->>>>>>> 3383f01c02c6d81087be883e1205599192f374e3
-    "Element.md",
-    "Untitled",
-    "Active Directory Datenbank.md",
-    "AD.md",
-    "AD-Funktionalitäten.md",
-    "Protokoll.md",
-    "Hardware Server.md",
-    "int.md",
-    "Integer.md",
-    "Java.md",
-    "_Bilder/Eingabeaufforderung/Pasted image nslookup.png",
-<<<<<<< HEAD
-    "Benutzer.md",
-    "Personen.md",
-    "Wissenschaften.md",
-=======
->>>>>>> 3383f01c02c6d81087be883e1205599192f374e3
-    "Unbenannt",
-    "Unbenannt 1.canvas",
-    "Unbenannt.canvas",
-    "ready",
-    "_Bilder/Pasted image Ports_LAN_WAN.png",
-    "IT-Technik - Schulaufgabe",
-    "IT-Systeme-Schulaufgabe",
-    "_Bilder/Protokolle/UDP/Pasted image 20240611214058.png",
-    "_Bilder/Physik_Elektrotechnik/Pasted image Atom.png",
-    "_Bilder/Eingabeaufforderung/Pasted image nslookup Ergebnis.png",
-    "_Bilder/Eingabeaufforderung/Pasted image route print.png",
-    "_Bilder/Ausführen/Pasted image Ausführen-Fenster.png",
-    "_Bilder/Ausführen/Pasted image Ausführen-Fenster_SafeMode Outlook.png",
-    "_Bilder/Programmiersprachen/Structured Query Language/Pasted image create database.png",
-    "_Bilder/Programmiersprachen/Structured Query Language/Pasted image describe tablename.png",
-    "_Bilder/Protokolle/UDP",
-    "_Bilder/Unbenannt",
-    "_Bilder/Protokolle"
+    "Z.md"
   ]
 }
