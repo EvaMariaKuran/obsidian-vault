@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "6fe3475b50192d4a",
     "type": "split",
     "children": [
@@ -9,11 +10,26 @@
         "children": [
           {
             "id": "af6538802a89bb79",
+=======
+    "id": "863317a7f88b5c95",
+    "type": "split",
+    "children": [
+      {
+        "id": "55d70cd76e4b7685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c563d1bb0a1d8ba4",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Z.md",
+=======
+                "file": "Test-Notiz.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +44,11 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Z"
+=======
+              "title": "Test-Notiz"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -37,6 +57,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "c169faa6048d67cd",
     "type": "split",
     "children": [
@@ -46,6 +67,17 @@
         "children": [
           {
             "id": "f04195aefa91626b",
+=======
+    "id": "ab94da69c43e7607",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2fde6bcfe4fa385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15692e7477dc2776",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +90,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "bed5bf2749a831d6",
+=======
+            "id": "58a8bbdbc3db6372",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +111,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "426030e80a558a49",
+=======
+            "id": "1229cba4f7098ef3",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,6 +131,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< Updated upstream
     "id": "bed9fc414cc451f2",
     "type": "split",
     "children": [
@@ -100,11 +141,26 @@
         "children": [
           {
             "id": "c4dc64446f1e0356",
+=======
+    "id": "97b07c0671660f2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa4529b34f263f8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f40f79a8550018ef",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Z.md",
+=======
+                "file": "Test-Notiz.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +170,45 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< Updated upstream
               "title": "Rückverweise auf Z"
             }
           },
           {
             "id": "4762c288a3610553",
+=======
+              "title": "Rückverweise auf Test-Notiz"
+            }
+          },
+          {
+            "id": "1096cb78fcd5c7d7",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Z.md",
+=======
+                "file": "Test-Notiz.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< Updated upstream
               "title": "Ausgehende Links von Z öffnen"
             }
           },
           {
             "id": "0a54096df15feda4",
+=======
+              "title": "Ausgehende Links von Test-Notiz öffnen"
+            }
+          },
+          {
+            "id": "a76c599d075a3f6e",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,18 +223,30 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "182a5618d99a45ed",
+=======
+            "id": "a2b78cfe6093e0fa",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Z.md",
+=======
+                "file": "Test-Notiz.md",
+>>>>>>> Stashed changes
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< Updated upstream
               "title": "Gliederung von Z"
+=======
+              "title": "Gliederung von Test-Notiz"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -179,8 +267,13 @@
       "bases:Neue Base erstellen": false
     }
   },
+<<<<<<< Updated upstream
   "active": "af6538802a89bb79",
   "lastOpenFiles": [
     "Z.md"
   ]
+=======
+  "active": "c563d1bb0a1d8ba4",
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }
