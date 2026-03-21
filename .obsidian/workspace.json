@@ -1,35 +1,19 @@
 {
   "main": {
-<<<<<<< Updated upstream
-    "id": "6fe3475b50192d4a",
+    "id": "10e4702b3bac0587",
     "type": "split",
     "children": [
       {
-        "id": "96ae606e67c107a5",
+        "id": "2293aab5b50bd63b",
         "type": "tabs",
         "children": [
           {
-            "id": "af6538802a89bb79",
-=======
-    "id": "863317a7f88b5c95",
-    "type": "split",
-    "children": [
-      {
-        "id": "55d70cd76e4b7685",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c563d1bb0a1d8ba4",
->>>>>>> Stashed changes
+            "id": "75cae8f1c097734c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
                 "file": "Z.md",
-=======
-                "file": "Test-Notiz.md",
->>>>>>> Stashed changes
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,11 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
               "title": "Z"
-=======
-              "title": "Test-Notiz"
->>>>>>> Stashed changes
             }
           }
         ]
@@ -57,27 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< Updated upstream
-    "id": "c169faa6048d67cd",
+    "id": "af723d42ad4fcf76",
     "type": "split",
     "children": [
       {
-        "id": "61bd6fd9ec17eac3",
+        "id": "01a3de6657199c90",
         "type": "tabs",
         "children": [
           {
-            "id": "f04195aefa91626b",
-=======
-    "id": "ab94da69c43e7607",
-    "type": "split",
-    "children": [
-      {
-        "id": "b2fde6bcfe4fa385",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "15692e7477dc2776",
->>>>>>> Stashed changes
+            "id": "0f457c599ee698f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -90,11 +58,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "bed5bf2749a831d6",
-=======
-            "id": "58a8bbdbc3db6372",
->>>>>>> Stashed changes
+            "id": "84ae43d0f257c3d9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -111,11 +75,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "426030e80a558a49",
-=======
-            "id": "1229cba4f7098ef3",
->>>>>>> Stashed changes
+            "id": "2ea83274df178933",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -131,36 +91,20 @@
     "width": 300
   },
   "right": {
-<<<<<<< Updated upstream
-    "id": "bed9fc414cc451f2",
+    "id": "58d74b9f723dcfab",
     "type": "split",
     "children": [
       {
-        "id": "6176d54bac3a7710",
+        "id": "b874ca59bb833335",
         "type": "tabs",
         "children": [
           {
-            "id": "c4dc64446f1e0356",
-=======
-    "id": "97b07c0671660f2c",
-    "type": "split",
-    "children": [
-      {
-        "id": "aa4529b34f263f8e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f40f79a8550018ef",
->>>>>>> Stashed changes
+            "id": "47ed6c2dcba4d5c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
                 "file": "Z.md",
-=======
-                "file": "Test-Notiz.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,45 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< Updated upstream
               "title": "Rückverweise auf Z"
             }
           },
           {
-            "id": "4762c288a3610553",
-=======
-              "title": "Rückverweise auf Test-Notiz"
-            }
-          },
-          {
-            "id": "1096cb78fcd5c7d7",
->>>>>>> Stashed changes
+            "id": "c896e1cca43e09a9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
                 "file": "Z.md",
-=======
-                "file": "Test-Notiz.md",
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< Updated upstream
               "title": "Ausgehende Links von Z öffnen"
             }
           },
           {
-            "id": "0a54096df15feda4",
-=======
-              "title": "Ausgehende Links von Test-Notiz öffnen"
-            }
-          },
-          {
-            "id": "a76c599d075a3f6e",
->>>>>>> Stashed changes
+            "id": "c5be2d792444c2ac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -223,30 +147,18 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "182a5618d99a45ed",
-=======
-            "id": "a2b78cfe6093e0fa",
->>>>>>> Stashed changes
+            "id": "fe7beef6a799bbac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
                 "file": "Z.md",
-=======
-                "file": "Test-Notiz.md",
->>>>>>> Stashed changes
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< Updated upstream
               "title": "Gliederung von Z"
-=======
-              "title": "Gliederung von Test-Notiz"
->>>>>>> Stashed changes
             }
           }
         ]
@@ -267,13 +179,6 @@
       "bases:Neue Base erstellen": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "af6538802a89bb79",
-  "lastOpenFiles": [
-    "Z.md"
-  ]
-=======
-  "active": "c563d1bb0a1d8ba4",
+  "active": "75cae8f1c097734c",
   "lastOpenFiles": []
->>>>>>> Stashed changes
 }
