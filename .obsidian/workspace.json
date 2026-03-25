@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0155ea8d10a0115f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
-            }
-          },
-          {
             "id": "95d236a0c1903030",
             "type": "leaf",
             "state": {
@@ -41,13 +31,22 @@
               "title": "my tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "269a17c6848666ca",
         "type": "tabs",
         "children": [
+          {
+            "id": "0155ea8d10a0115f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
+          },
           {
             "id": "66ebd082670782bf",
             "type": "leaf",
@@ -220,10 +219,10 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "95d236a0c1903030",
+  "active": "0155ea8d10a0115f",
   "lastOpenFiles": [
-    "Unbenannt.canvas",
     "my tags.md",
+    "Unbenannt.canvas",
     "Study-Dateien/Zeit.md",
     "Unbenannt",
     "Test-Notiz.md",
