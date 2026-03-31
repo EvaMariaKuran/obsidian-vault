@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66ebd082670782bf",
+            "id": "d865a52c4dbba4c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my tags.md",
-                "mode": "preview",
+                "file": "_my tags.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,21 +28,139 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "my tags"
+              "title": "_my tags"
             }
           },
           {
-            "id": "72d1f9f10153f072",
+            "id": "c0f48d376afcbd6d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Export_Import E-Mail-Kalender.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Export_Import E-Mail-Kalender"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "c846c4ca529edc06",
+        "type": "split",
+        "children": [
+          {
+            "id": "c98f0efdfcf33945",
+            "type": "tabs",
+            "dimension": 38.862559241706165,
+            "children": [
+              {
+                "id": "72d1f9f10153f072",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph-Ansicht"
+                }
+              }
+            ]
+          },
+          {
+            "id": "32525447c9d12a9e",
+            "type": "tabs",
+            "dimension": 61.137440758293835,
+            "children": [
+              {
+                "id": "d6120d341585d2ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_my tags.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "_my tags"
+                }
+              },
+              {
+                "id": "8426ae2a6e5a74ec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Export_Import E-Mail-Kalender.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Export_Import E-Mail-Kalender"
+                }
+              },
+              {
+                "id": "9e08893eac088d63",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AD-Sync.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "AD-Sync"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -189,16 +307,19 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "72d1f9f10153f072",
+  "active": "c0f48d376afcbd6d",
   "lastOpenFiles": [
-    "my tags.md",
+    "AD-Sync.md",
+    "Export_Import E-Mail-Kalender.md",
+    "_my tags.md",
+    "NumLock Taste - Skript automatisch aktivieren.md",
+    "Unbenannt.base",
+    "Unbenannt",
     "Study-Dateien/CMD-Übersicht.md",
     "Study-Dateien/Eingabeaufforderung.md",
     "Study-Dateien/CMD.md",
-    "Unbenannt.base",
     "Unbenannt.canvas",
     "Study-Dateien/Zeit.md",
-    "Unbenannt",
     "Test-Notiz.md",
     "Study-Dateien/xcopy.md",
     "Z neu.md",
