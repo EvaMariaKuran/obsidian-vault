@@ -12,7 +12,9 @@
 #finance
 
 #informatik
-
+	#informatik/PowerShell
+	#informatik/CMD
+	
 #photography
 
 #study

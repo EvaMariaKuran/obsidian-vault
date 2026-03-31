@@ -1,18 +1,40 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:\"_Bilder/\" -path:\"Github Verknüprung/\" -path:\"offene Themen (ausführlicher)/\"  -path:Study-Dateien/  ",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "-path:\"_Bilder/\" -path:\"Github Verknüprung/\" -path:\"offene Themen (ausführlicher)/\"  -path:Study-Dateien/  ",
+      "color": {
+        "a": 1,
+        "rgb": 5415904
+      }
+    },
+    {
+      "query": "path:\"Study-Dateien/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,

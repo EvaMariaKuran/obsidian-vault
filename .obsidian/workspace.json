@@ -4,49 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "7754bd207f2b7b61",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "95d236a0c1903030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my tags.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "my tags"
-            }
-          }
-        ]
-      },
-      {
         "id": "269a17c6848666ca",
         "type": "tabs",
         "children": [
-          {
-            "id": "0155ea8d10a0115f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
-            }
-          },
           {
             "id": "66ebd082670782bf",
             "type": "leaf",
@@ -70,8 +30,19 @@
               "icon": "lucide-file",
               "title": "my tags"
             }
+          },
+          {
+            "id": "72d1f9f10153f072",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Z"
+              "title": "Rückverweise"
             }
           },
           {
@@ -219,9 +189,12 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "0155ea8d10a0115f",
+  "active": "72d1f9f10153f072",
   "lastOpenFiles": [
     "my tags.md",
+    "Study-Dateien/CMD-Übersicht.md",
+    "Study-Dateien/Eingabeaufforderung.md",
+    "Study-Dateien/CMD.md",
     "Unbenannt.base",
     "Unbenannt.canvas",
     "Study-Dateien/Zeit.md",

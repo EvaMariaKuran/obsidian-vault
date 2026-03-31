@@ -5,6 +5,33 @@
       "ctime": 1712693937221,
       "path": "2024-04-09.md",
       "title": "WICHTIG"
+    },
+    {
+      "type": "graph",
+      "ctime": 1774957843958,
+      "title": "work graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:\"_Bilder/\" -path:\"Github Verknüprung/\" -path:\"offene Themen (ausführlicher)/\"  -path:Study-Dateien/  ",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.12115356524779429,
+        "close": false
+      }
     }
   ]
 }
