@@ -7,6 +7,4 @@
 
 Code im Editor / Notepad++ einfügen und als .bat speichern --> in einer Aufgabe bei der Aufgabenplanung konfigurieren
 
-#informatik 
-#informatik/Aufgabenplanung 
-#informatik/Skripte 
+#informatik #informatik/Aufgabenplanung #informatik/Skripte 

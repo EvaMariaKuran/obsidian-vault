@@ -17,6 +17,8 @@
 	#informatik/Skripte
 	#informatik/Aufgabenplanung
 	#informatik/Syncronisationen
+	#informatik/Programme
+	
 
 #Microsoft365
 	#Microsoft365/Outlook
