@@ -55,9 +55,33 @@
               "title": "Firebird Maestro"
             },
             "group": "eb5dc021a731e810"
+          },
+          {
+            "id": "b8bd7d0d5ea73563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servicekonten via PowerShell Befehl auslesen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Servicekonten via PowerShell Befehl auslesen"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "1a5aa31d7ef4fed8",
@@ -251,16 +275,19 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "72d1f9f10153f072",
+  "active": "b8bd7d0d5ea73563",
   "lastOpenFiles": [
     "Firebird Maestro.md",
+    "Servicekonten via PowerShell Befehl auslesen.md",
+    "Spreadsheets.md",
+    "NumLock Taste - Skript automatisch aktivieren.md",
+    "IPAM.md",
+    "Export_Import E-Mail-Kalender.md",
+    "AD-Sync Befehle.md",
     "Study-Dateien/Structured Query Language.md",
     "Study-Dateien/SQL.md",
     "Study-Dateien/Datenbank.md",
     "_my tags.md",
-    "AD-Sync.md",
-    "Export_Import E-Mail-Kalender.md",
-    "NumLock Taste - Skript automatisch aktivieren.md",
     "Unbenannt.base",
     "Unbenannt",
     "Study-Dateien/CMD-Übersicht.md",
