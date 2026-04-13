@@ -4,119 +4,104 @@
     "type": "split",
     "children": [
       {
-        "id": "269a17c6848666ca",
-        "type": "tabs",
+        "id": "8d23ac1ccb802de1",
+        "type": "split",
+        "dimension": 66.64086687306502,
         "children": [
           {
-            "id": "d865a52c4dbba4c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_my tags.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "269a17c6848666ca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d865a52c4dbba4c2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_my tags.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "_my tags"
                 }
               },
-              "icon": "lucide-file",
-              "title": "_my tags"
-            }
+              {
+                "id": "c3d63a81762af05d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Firebird Maestro.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": false
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Firebird Maestro"
+                },
+                "group": "b056e54e350ad8fe"
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "c3d63a81762af05d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firebird Maestro.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Firebird Maestro"
-            },
-            "group": "eb5dc021a731e810"
-          },
-          {
-            "id": "b8bd7d0d5ea73563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servicekonten via PowerShell Befehl auslesen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Servicekonten via PowerShell Befehl auslesen"
-            }
+            "id": "8bcf6bdfe5fcc616",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "542ea3293de0a3b5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Firebird Maestro.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": false
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Firebird Maestro"
+                },
+                "group": "b056e54e350ad8fe"
+              }
+            ]
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "1a5aa31d7ef4fed8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9a4c86435979e4cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firebird Maestro.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Firebird Maestro"
-            },
-            "group": "eb5dc021a731e810"
-          }
-        ]
+        "direction": "horizontal"
       },
       {
         "id": "c98f0efdfcf33945",
         "type": "tabs",
+        "dimension": 33.359133126934985,
         "children": [
           {
             "id": "72d1f9f10153f072",
@@ -275,11 +260,12 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "72d1f9f10153f072",
+  "active": "c3d63a81762af05d",
   "lastOpenFiles": [
-    "Servicekonten via PowerShell Befehl auslesen.md",
-    "Firebird Maestro.md",
     "_my tags.md",
+    "Firebird Maestro.md",
+    "Aufgabenplanung via PowerShell auslesen.md",
+    "Servicekonten via PowerShell Befehl auslesen.md",
     "Spreadsheets.md",
     "NumLock Taste - Skript automatisch aktivieren.md",
     "IPAM.md",
