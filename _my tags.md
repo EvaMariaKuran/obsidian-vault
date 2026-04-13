@@ -18,6 +18,9 @@
 	#informatik/Aufgabenplanung
 	#informatik/Syncronisationen
 	#informatik/Programme
+	#informatik/Windows 
+	#informatik/Linux
+	#informatik/Konsole 
 	
 
 #Microsoft365

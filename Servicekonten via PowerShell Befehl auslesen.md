@@ -15,3 +15,5 @@ Get-WmiObject Win32_Service |
 		Select-Object Name, DisplayName, StartName, State |
 	Sort-Object StartName |
 	Format-Table -AutoSize
+
+#informatik #informatik/PowerShell #informatik/Skripte 
