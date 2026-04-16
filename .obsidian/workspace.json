@@ -11,6 +11,7 @@
           {
             "id": "81381d13de66e7d9",
             "type": "tabs",
+            "dimension": 47.127468581687616,
             "children": [
               {
                 "id": "68753f762cec5523",
@@ -36,12 +37,38 @@
                   "title": "_my tags"
                 },
                 "group": "d5521210fa2d18d7"
+              },
+              {
+                "id": "4d5191625c130411",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Test - neu aufgesetzter PC.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Test - neu aufgesetzter PC"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "c31dfbc2ec4b0552",
             "type": "tabs",
+            "dimension": 52.872531418312384,
             "children": [
               {
                 "id": "bf7a350005d02119",
@@ -235,8 +262,9 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "72d1f9f10153f072",
+  "active": "4d5191625c130411",
   "lastOpenFiles": [
+    "Test - neu aufgesetzter PC.md",
     "_my tags.md",
     "Zeilen in neue Tabellenblätter erstellen - Excel.md",
     "Windows Hello zurücksetzen - Skirpt.md",
