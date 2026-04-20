@@ -4,3 +4,4 @@ TEst alle daten ??!!
 
 
 TEST zurück von meinem Laptop - war erfolgreich von dieser Zeit - nach Anpassung der config
+ah lol - hatte den test schon gemacht - na dann morgen nochmal gucken ;)
