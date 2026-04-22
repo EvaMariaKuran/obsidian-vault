@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test - neu aufgesetzter PC.md",
+                "file": "_my tags.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Test - neu aufgesetzter PC"
+              "title": "_my tags"
             }
           },
           {
@@ -55,30 +55,6 @@
               "title": "Firebird Maestro"
             },
             "group": "eb5dc021a731e810"
-          },
-          {
-            "id": "b8bd7d0d5ea73563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spreadsheets.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Spreadsheets"
-            }
           }
         ]
       },
@@ -276,19 +252,19 @@
   },
   "active": "d865a52c4dbba4c2",
   "lastOpenFiles": [
+    "Export_Import E-Mail-Kalender.md",
+    "Firebird Maestro.md",
+    "Spreadsheets.md",
     "_my tags.md",
+    "Test - neu aufgesetzter PC.md",
     "Zeilen in neue Tabellenblätter erstellen - Excel.md",
     "Windows Hello zurücksetzen - Skirpt.md",
-    "Test - neu aufgesetzter PC.md",
     "Linux Server updaten via Konsole.md",
     "Inhaltsverzeichnis in Excel mit Datenblättername erstellen via Makros.md",
     "Aufgabenplanung via PowerShell auslesen.md",
-    "Spreadsheets.md",
     "Servicekonten via PowerShell Befehl auslesen.md",
     "NumLock Taste - Skript automatisch aktivieren.md",
     "IPAM.md",
-    "Firebird Maestro.md",
-    "Export_Import E-Mail-Kalender.md",
     "AD-Sync Befehle.md",
     "Study-Dateien/Structured Query Language.md",
     "Study-Dateien/SQL.md",

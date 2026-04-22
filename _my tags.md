@@ -1,16 +1,3 @@
-#fitness
-		#fitness/gym
-		#fittness/biking
-		#fitness/calesthenics
-
-#anatomy
-
-#food
-
-#MentalHealth
-
-#finance
-
 #informatik
 	#informatik/PowerShell
 	#informatik/CMD
@@ -30,12 +17,26 @@
 	#Microsoft365/PowerPoint
 	#Microsoft365/ADSyncronisation
 
+#fitness
+		#fitness/gym
+		#fittness/biking
+		#fitness/calesthenics
+
+#anatomy
+
+#food
+
+#MentalHealth
+
+#finance
+
 #photography
 
 #study
 		#study/lernsystem
 		#study/methods
 		#study/HenryHildebrandt
+		#studyTime 
 
 #Zitate
 
