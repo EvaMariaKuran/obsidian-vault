@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firebird Maestro.md",
+                "file": "Batch-Datei - Dateiumbenennung .drp-Dateien.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,12 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Firebird Maestro"
+              "title": "Batch-Datei - Dateiumbenennung .drp-Dateien"
             },
             "group": "eb5dc021a731e810"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1a5aa31d7ef4fed8",
@@ -68,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firebird Maestro.md",
+                "file": "Batch-Datei - Dateiumbenennung .drp-Dateien.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -83,7 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Firebird Maestro"
+              "title": "Batch-Datei - Dateiumbenennung .drp-Dateien"
             },
             "group": "eb5dc021a731e810"
           }
@@ -252,11 +253,11 @@
   },
   "active": "72d1f9f10153f072",
   "lastOpenFiles": [
+    "Batch-Datei - Dateiumbenennung .drp-Dateien.md",
     "_my tags.md",
-    "Export_Import E-Mail-Kalender.md",
     "Firebird Maestro.md",
+    "Export_Import E-Mail-Kalender.md",
     "Spreadsheets.md",
-    "Test - neu aufgesetzter PC.md",
     "Zeilen in neue Tabellenblätter erstellen - Excel.md",
     "Windows Hello zurücksetzen - Skirpt.md",
     "Linux Server updaten via Konsole.md",

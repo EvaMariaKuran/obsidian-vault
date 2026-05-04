@@ -2,6 +2,7 @@
 	#informatik/PowerShell
 	#informatik/CMD
 	#informatik/Skripte
+	#informatik/Batch-Datei
 	#informatik/Aufgabenplanung
 	#informatik/Syncronisationen
 	#informatik/Programme
