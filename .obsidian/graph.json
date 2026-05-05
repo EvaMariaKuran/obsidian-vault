@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"_Bilder/\" -path:\"Github Verknüprung/\" -path:\"offene Themen (ausführlicher)/\"  -path:Study-Dateien/  ",
+  "search": "-path:\"_Bilder/\" -path:\"Github Verknüprung/\" -path:\"offene Themen (ausführlicher)/\"  -path:Study-Dateien/",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -8,24 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "-path:\"_Bilder/\" -path:\"Github Verknüprung/\" -path:\"offene Themen (ausführlicher)/\"  -path:Study-Dateien/  ",
+      "query": "path:\"_Bilder/\" ",
       "color": {
         "a": 1,
-        "rgb": 5415904
+        "rgb": 14701276
       }
     },
     {
-      "query": "path:\"Study-Dateien/\"",
+      "query": "path:\"Github Verknüprung/\" ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "",
+      "query": "path:\"offene Themen (ausführlicher)/\"  ",
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Study-Dateien/  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "-path:\"_Bilder/\" -path:\"Github Verknüprung/\" -path:\"offene Themen (ausführlicher)/\"  -path:Study-Dateien/",
+      "color": {
+        "a": 1,
+        "rgb": 4742388
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8220121883721174,
+  "scale": 0.2982978367776038,
   "close": true
 }

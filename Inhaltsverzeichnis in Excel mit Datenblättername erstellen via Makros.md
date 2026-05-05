@@ -1,3 +1,4 @@
+```
 Sub ErstelleInhaltsverzeichnisAusSpalten()
 
     Dim ws As Worksheet
@@ -62,6 +63,7 @@ Sub ErstelleInhaltsverzeichnisAusSpalten()
     MsgBox "Inhaltsverzeichnis wurde erstellt.", vbInformation
 
 End Sub
+```
 
 
 #informatik #Microsoft365 #Microsoft365/Excel #informatik/Skripte 

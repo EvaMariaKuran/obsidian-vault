@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batch-Datei - Dateiumbenennung .drp-Dateien.md",
+                "file": "Windows Hello zurücksetzen - Skirpt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Batch-Datei - Dateiumbenennung .drp-Dateien"
+              "title": "Windows Hello zurücksetzen - Skirpt"
             },
             "group": "eb5dc021a731e810"
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batch-Datei - Dateiumbenennung .drp-Dateien.md",
+                "file": "Windows Hello zurücksetzen - Skirpt.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -84,18 +84,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Batch-Datei - Dateiumbenennung .drp-Dateien"
+              "title": "Windows Hello zurücksetzen - Skirpt"
             },
             "group": "eb5dc021a731e810"
           }
         ]
       },
       {
-        "id": "c98f0efdfcf33945",
+        "id": "1fee3abc65cc2d39",
         "type": "tabs",
         "children": [
           {
-            "id": "72d1f9f10153f072",
+            "id": "e5667935056b24e6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -251,37 +251,37 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "72d1f9f10153f072",
+  "active": "c3d63a81762af05d",
   "lastOpenFiles": [
-    "Batch-Datei - Dateiumbenennung .drp-Dateien.md",
     "_my tags.md",
-    "Firebird Maestro.md",
-    "Export_Import E-Mail-Kalender.md",
-    "Spreadsheets.md",
-    "Zeilen in neue Tabellenblätter erstellen - Excel.md",
-    "Windows Hello zurücksetzen - Skirpt.md",
-    "Linux Server updaten via Konsole.md",
-    "Inhaltsverzeichnis in Excel mit Datenblättername erstellen via Makros.md",
-    "Aufgabenplanung via PowerShell auslesen.md",
-    "Servicekonten via PowerShell Befehl auslesen.md",
-    "NumLock Taste - Skript automatisch aktivieren.md",
-    "IPAM.md",
     "AD-Sync Befehle.md",
-    "Study-Dateien/Structured Query Language.md",
-    "Study-Dateien/SQL.md",
-    "Study-Dateien/Datenbank.md",
+    "Aufgabenplanung via PowerShell auslesen.md",
+    "Batch-Datei - Dateiumbenennung .drp-Dateien.md",
+    "Dienste.md",
+    "echo $0.md",
+    "Export_Import E-Mail-Kalender.md",
+    "Firebird Maestro.md",
+    "Inhaltsverzeichnis in Excel mit Datenblättername erstellen via Makros.md",
+    "IPAM.md",
+    "Konfigurationsdateien.md",
+    "Linux Server updaten via Shell.md",
+    "NumLock Taste - Skript automatisch aktivieren.md",
+    "Servicekonten via PowerShell Befehl auslesen.md",
+    "Windows Hello zurücksetzen - Skirpt.md",
+    "TASKS über COM.md",
+    "Zeilen in neue Tabellenblätter erstellen - Excel.md",
+    "Kombinieren.md",
+    "Spreadsheets.md",
+    "Study-Dateien/Network Attached Storage.md",
+    "Study-Dateien/Multi-Domain-Zertifikat.md",
+    "Study-Dateien/NAS-System.md",
+    "Study-Dateien/Microsoft-Produkte.md",
+    "offene Themen (ausführlicher)/Zählewenn - Formelfunktion.md",
+    "offene Themen (ausführlicher)/Veeam.md",
+    "offene Themen (ausführlicher)/Summewenn - Formelfunktion.md",
     "Unbenannt.base",
     "Unbenannt",
-    "Study-Dateien/CMD-Übersicht.md",
-    "Study-Dateien/Eingabeaufforderung.md",
-    "Study-Dateien/CMD.md",
     "Unbenannt.canvas",
-    "Study-Dateien/Zeit.md",
-    "Test-Notiz.md",
-    "Study-Dateien/xcopy.md",
-    "Z neu.md",
-    "Study-Dateien/Tools.md",
-    "Study-Dateien/Abonnemente.md",
     "Study-Dateien"
   ]
 }

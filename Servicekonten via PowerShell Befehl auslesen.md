@@ -1,3 +1,4 @@
+```
 Get-WmiObject Win32_Service |
 Where-Object {
 	$_.StartName -notlike "NT AUTHORITY*" -and
@@ -7,18 +8,22 @@ Select-Object Name, DisplayName, StartName, State |
 Sort-Object StartName |
 Format-Table -AutoSize
 
+```
 
 
 Alle Servicekonten: 
 
+```
 Get-WmiObject Win32_Service |
 		Select-Object Name, DisplayName, StartName, State |
 	Sort-Object StartName |
 	Format-Table -AutoSize
 
+```
 
 
 # --- TASKS über COM (vollständig, auch "unsichtbare") ---
+```
 $service = New-Object -ComObject "Schedule.Service"
 $service.Connect()
 
@@ -46,8 +51,10 @@ function Get-AllTasks {
 }
 
 $tasks = Get-AllTasks -folder $service.GetFolder("\")
+```
 
 # --- DIENSTE ---
+```
 $services = Get-CimInstance Win32_Service | ForEach-Object {
     [PSCustomObject]@{
         Type        = "Service"
@@ -58,19 +65,25 @@ $services = Get-CimInstance Win32_Service | ForEach-Object {
         Source      = "ServiceControlManager"
     }
 }
+```
 
 # --- KOMBINIEREN ---
-$all = $tasks + $services
+`$all = $tasks + $services`
 
 # --- OPTIONAL: Standardkonten ausblenden ---
+```
 $filtered = $all | Where-Object {
     $_.Account -and
     $_.Account -notmatch "SYSTEM|LOCAL SERVICE|NETWORK SERVICE"
 }
+```
 
 # --- AUSGABE ---
+```
 $filtered |
 Sort-Object Account, Type, Name |
 Format-Table Type, Name, Path, Account, State -AutoSize
+```
+
 
 #informatik #informatik/PowerShell #informatik/Skripte 
