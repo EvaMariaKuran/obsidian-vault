@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Hello zurücksetzen - Skirpt.md",
+                "file": "API.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Windows Hello zurücksetzen - Skirpt"
+              "title": "API"
             },
             "group": "eb5dc021a731e810"
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Hello zurücksetzen - Skirpt.md",
+                "file": "API.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -84,7 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Windows Hello zurücksetzen - Skirpt"
+              "title": "API"
             },
             "group": "eb5dc021a731e810"
           }
@@ -251,8 +251,13 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "c3d63a81762af05d",
+  "active": "e5667935056b24e6",
   "lastOpenFiles": [
+    "NinjaOne.md",
+    "API.md",
+    "Unbenannt.base",
+    "Unbenannt.canvas",
+    "Windows Hello zurücksetzen - Skirpt.md",
     "_my tags.md",
     "AD-Sync Befehle.md",
     "Aufgabenplanung via PowerShell auslesen.md",
@@ -267,7 +272,6 @@
     "Linux Server updaten via Shell.md",
     "NumLock Taste - Skript automatisch aktivieren.md",
     "Servicekonten via PowerShell Befehl auslesen.md",
-    "Windows Hello zurücksetzen - Skirpt.md",
     "TASKS über COM.md",
     "Zeilen in neue Tabellenblätter erstellen - Excel.md",
     "Kombinieren.md",
@@ -276,12 +280,7 @@
     "Study-Dateien/Multi-Domain-Zertifikat.md",
     "Study-Dateien/NAS-System.md",
     "Study-Dateien/Microsoft-Produkte.md",
-    "offene Themen (ausführlicher)/Zählewenn - Formelfunktion.md",
-    "offene Themen (ausführlicher)/Veeam.md",
-    "offene Themen (ausführlicher)/Summewenn - Formelfunktion.md",
-    "Unbenannt.base",
     "Unbenannt",
-    "Unbenannt.canvas",
     "Study-Dateien"
   ]
 }
