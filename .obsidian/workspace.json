@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API.md",
+                "file": "3-Schritte Lernvorgang.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,11 +48,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "API"
+              "title": "3-Schritte Lernvorgang"
             },
             "group": "eb5dc021a731e810"
           }
@@ -69,8 +69,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API.md",
-                "mode": "preview",
+                "file": "3-Schritte Lernvorgang.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -84,7 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "API"
+              "title": "3-Schritte Lernvorgang"
             },
             "group": "eb5dc021a731e810"
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#studyTime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,16 +253,19 @@
   },
   "active": "e5667935056b24e6",
   "lastOpenFiles": [
+    "3-Schritte Lernvorgang.md",
+    "_Bilder/Grafiken/3-Schritte Lernvorgang.png",
+    "API.md",
+    "_my tags.md",
+    "_Bilder/Grafiken",
     "AD-Sync Befehle.md",
     "Export_Import E-Mail-Kalender.md",
-    "API.md",
     "Aufgabenplanung via PowerShell auslesen.md",
     "Inhaltsverzeichnis in Excel mit Datenblättername erstellen via Makros.md",
     "NinjaOne.md",
     "Unbenannt.base",
     "Unbenannt.canvas",
     "Windows Hello zurücksetzen - Skirpt.md",
-    "_my tags.md",
     "Batch-Datei - Dateiumbenennung .drp-Dateien.md",
     "Dienste.md",
     "echo $0.md",
@@ -279,8 +282,6 @@
     "Study-Dateien/Network Attached Storage.md",
     "Study-Dateien/Multi-Domain-Zertifikat.md",
     "Study-Dateien/NAS-System.md",
-    "Study-Dateien/Microsoft-Produkte.md",
-    "Unbenannt",
     "Study-Dateien"
   ]
 }

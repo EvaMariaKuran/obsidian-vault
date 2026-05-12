@@ -34,10 +34,10 @@
 #photography
 
 #study
-		#study/lernsystem
+		#study/Fachbegriffe
 		#study/methods
-		#study/HenryHildebrandt
-		#studyTime 
+		#study/Strategie
+		
 
 #Zitate
 
