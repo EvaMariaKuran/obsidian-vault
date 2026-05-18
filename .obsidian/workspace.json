@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_my tags.md",
+                "file": "NinjaOne.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_my tags"
+              "title": "NinjaOne"
             }
           },
           {
@@ -56,8 +56,7 @@
             },
             "group": "eb5dc021a731e810"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1a5aa31d7ef4fed8",
@@ -251,18 +250,18 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "c3d63a81762af05d",
+  "active": "d865a52c4dbba4c2",
   "lastOpenFiles": [
+    "_my tags.md",
+    "NinjaOne.md",
     "3-Schritte Lernvorgang.md",
     "_Bilder/Grafiken/3-Schritte Lernvorgang.png",
     "API.md",
-    "_my tags.md",
     "_Bilder/Grafiken",
     "AD-Sync Befehle.md",
     "Export_Import E-Mail-Kalender.md",
     "Aufgabenplanung via PowerShell auslesen.md",
     "Inhaltsverzeichnis in Excel mit Datenblättername erstellen via Makros.md",
-    "NinjaOne.md",
     "Unbenannt.base",
     "Unbenannt.canvas",
     "Windows Hello zurücksetzen - Skirpt.md",

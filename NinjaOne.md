@@ -36,3 +36,7 @@ software muss hinzugefügt werden - kann aktualisiert bzw. zugeweisen werden ers
 automatisierungen unter bib
 
 intune kann auch integriert werden - entra 
+
+
+
+
