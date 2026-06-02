@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows-Startzeit via PowerShell auslesen.md",
+                "file": "Psychologie des Lernens.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Windows-Startzeit via PowerShell auslesen"
+              "title": "Psychologie des Lernens"
             },
             "group": "eb5dc021a731e810"
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows-Startzeit via PowerShell auslesen.md",
+                "file": "Psychologie des Lernens.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -84,7 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Windows-Startzeit via PowerShell auslesen"
+              "title": "Psychologie des Lernens"
             },
             "group": "eb5dc021a731e810"
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#studyTime",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,9 +253,13 @@
   },
   "active": "c3d63a81762af05d",
   "lastOpenFiles": [
+    "Grundstein.md",
+    "Routinen.md",
+    "Psychologie des Lernens.md",
+    "Warum und Wie.md",
     "3-Schritte Lernvorgang.md",
-    "Windows-Startzeit via PowerShell auslesen.md",
     "_my tags.md",
+    "Windows-Startzeit via PowerShell auslesen.md",
     "NinjaOne.md",
     "_Bilder/Grafiken/3-Schritte Lernvorgang.png",
     "API.md",
@@ -279,10 +283,6 @@
     "TASKS über COM.md",
     "Zeilen in neue Tabellenblätter erstellen - Excel.md",
     "Kombinieren.md",
-    "Spreadsheets.md",
-    "Study-Dateien/Network Attached Storage.md",
-    "Study-Dateien/Multi-Domain-Zertifikat.md",
-    "Study-Dateien/NAS-System.md",
     "Study-Dateien"
   ]
 }
