@@ -1,5 +1,5 @@
 ```
-get-apt update && get-apt upgrade
+apt-get update && apt-get upgrade
 ```
 
 #informatik #informatik/Linux #informatik/Konsole
