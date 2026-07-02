@@ -12,7 +12,5 @@
 
 6. Adminanmeldung (Intune Administrator)
 
-test zurück - yeyyyy it is working :)
-
 
 #informatik #informatik/PowerShell #Microsoft365 #informatik/Windows #informatik/Skripte 
