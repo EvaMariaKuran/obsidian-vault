@@ -12,5 +12,6 @@
 
 6. Adminanmeldung (Intune Administrator)
 
+test zurück
 
 #informatik #informatik/PowerShell #Microsoft365 #informatik/Windows #informatik/Skripte 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_my tags.md",
+                "file": "Autopilot ID einholen - Neuinstallation von PCs via Intune.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_my tags"
+              "title": "Autopilot ID einholen - Neuinstallation von PCs via Intune"
             }
           },
           {
@@ -220,9 +220,9 @@
   },
   "active": "d865a52c4dbba4c2",
   "lastOpenFiles": [
+    "_my tags.md",
     "Autopilot ID einholen - Neuinstallation von PCs via Intune.md",
     "Linux Server updaten via Shell.md",
-    "_my tags.md",
     "AD-Sync Befehle.md",
     "API.md",
     "Aufgabenplanung via PowerShell auslesen.md",
