@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c3d63a81762af05d",
+            "id": "802f4592bbfe9690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Server updaten via Shell.md",
+                "file": "Autopilot ID einholen - Neuinstallation von PCs via Intune.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,40 +52,8 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux Server updaten via Shell"
-            },
-            "group": "eb5dc021a731e810"
-          }
-        ]
-      },
-      {
-        "id": "1a5aa31d7ef4fed8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9a4c86435979e4cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Server updaten via Shell.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Linux Server updaten via Shell"
-            },
-            "group": "eb5dc021a731e810"
+              "title": "Autopilot ID einholen - Neuinstallation von PCs via Intune"
+            }
           }
         ]
       },
@@ -252,36 +220,36 @@
   },
   "active": "d865a52c4dbba4c2",
   "lastOpenFiles": [
+    "Autopilot ID einholen - Neuinstallation von PCs via Intune.md",
     "Linux Server updaten via Shell.md",
-    "Psychologie des Lernens.md",
     "_my tags.md",
+    "AD-Sync Befehle.md",
+    "API.md",
+    "Aufgabenplanung via PowerShell auslesen.md",
+    "Batch-Datei - Dateiumbenennung .drp-Dateien.md",
+    "Dienste.md",
+    "Zeilen in neue Tabellenblätter erstellen - Excel.md",
+    "Windows-Startzeit via PowerShell auslesen.md",
+    "Windows Hello zurücksetzen - Skirpt.md",
+    "Warum und Wie.md",
+    "Servicekonten via PowerShell Befehl auslesen.md",
+    "Konfigurationsdateien.md",
+    "Psychologie des Lernens.md",
     "Grundstein.md",
     "Routinen.md",
-    "Warum und Wie.md",
     "3-Schritte Lernvorgang.md",
-    "Windows-Startzeit via PowerShell auslesen.md",
     "NinjaOne.md",
     "_Bilder/Grafiken/3-Schritte Lernvorgang.png",
-    "API.md",
     "_Bilder/Grafiken",
-    "AD-Sync Befehle.md",
     "Export_Import E-Mail-Kalender.md",
-    "Aufgabenplanung via PowerShell auslesen.md",
     "Inhaltsverzeichnis in Excel mit Datenblättername erstellen via Makros.md",
     "Unbenannt.base",
     "Unbenannt.canvas",
-    "Windows Hello zurücksetzen - Skirpt.md",
-    "Batch-Datei - Dateiumbenennung .drp-Dateien.md",
-    "Dienste.md",
     "echo $0.md",
     "Firebird Maestro.md",
     "IPAM.md",
-    "Konfigurationsdateien.md",
     "NumLock Taste - Skript automatisch aktivieren.md",
-    "Servicekonten via PowerShell Befehl auslesen.md",
     "TASKS über COM.md",
-    "Zeilen in neue Tabellenblätter erstellen - Excel.md",
-    "Kombinieren.md",
     "Study-Dateien"
   ]
 }
