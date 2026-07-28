@@ -55,7 +55,8 @@
               "title": "Autopilot ID einholen - Neuinstallation von PCs via Intune"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1fee3abc65cc2d39",
@@ -218,10 +219,11 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "d865a52c4dbba4c2",
+  "active": "0f457c599ee698f7",
   "lastOpenFiles": [
-    "_my tags.md",
     "Autopilot ID einholen - Neuinstallation von PCs via Intune.md",
+    "claude.md",
+    "_my tags.md",
     "Linux Server updaten via Shell.md",
     "AD-Sync Befehle.md",
     "API.md",
@@ -249,7 +251,6 @@
     "Firebird Maestro.md",
     "IPAM.md",
     "NumLock Taste - Skript automatisch aktivieren.md",
-    "TASKS über COM.md",
     "Study-Dateien"
   ]
 }
